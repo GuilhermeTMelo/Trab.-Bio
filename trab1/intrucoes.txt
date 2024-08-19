@@ -1,0 +1,9 @@
+O código recebe o arquivo de nome "input.txt" que deve seguir o seguinte formato:
+
+SEQUENCIA1
+SEQUENCIA2
+GAP
+MIS
+MATCH
+
+Depois da leitura do arquivo o codigo ira fazer todos os calculos e traceback e retornar no terminal a matriz final, o alinhamento a partir do canto superior direito da matriz e o score obtido com o alinhamento. O programa irá gerar um arquivo chamado output.txt que contem exatamente a saída do terminal.
